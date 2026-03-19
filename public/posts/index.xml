@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Project</title>
-    <link>https://github.com/Spidy25ug-apu/hello-world/posts/</link>
+    <link>http://localhost:1313/Spidy25ug-apu/hello-world/posts/</link>
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2026 14:49:50 +0530</lastBuildDate>
-    <atom:link href="https://github.com/Spidy25ug-apu/hello-world/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Spidy25ug-apu/hello-world/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://github.com/Spidy25ug-apu/hello-world/posts/my-first-post/</link>
+      <link>http://localhost:1313/Spidy25ug-apu/hello-world/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 14:49:50 +0530</pubDate>
-      <guid>https://github.com/Spidy25ug-apu/hello-world/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/Spidy25ug-apu/hello-world/posts/my-first-post/</guid>
       <description>&lt;p&gt;“Hello everyone, my name is Piyush. I’m a student who is passionate about learning new things and improving my skills every day. I’m especially interested in technology and problem-solving. I enjoy exploring new ideas, working on assignments, and developing my knowledge step by step. I’m a hardworking and positive person, and I like taking on challenges that help me grow. In my free time, I enjoy using the computer, learning new concepts, and spending time with friends. My goal is to build a successful career and keep learning throughout my life. Thank you.”&lt;/p&gt;</description>
     </item>
   </channel>
