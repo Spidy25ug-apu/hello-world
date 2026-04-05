@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Project</title>
-    <link>http://localhost:1313/Spidy25ug-apu/hello-world/</link>
+    <link>https://github.com/Spidy25ug-apu/hello-world/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 14:49:50 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Spidy25ug-apu/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 00:27:50 +0530</lastBuildDate>
+    <atom:link href="https://github.com/Spidy25ug-apu/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit03</title>
+      <link>https://github.com/Spidy25ug-apu/hello-world/posts/unit03/</link>
+      <pubDate>Mon, 06 Apr 2026 00:27:50 +0530</pubDate>
+      <guid>https://github.com/Spidy25ug-apu/hello-world/posts/unit03/</guid>
+      <description>&lt;p&gt;Reflection blog on Unit 3&lt;/p&gt;&#xA;&lt;p&gt;In this unit, I learned what failure actually is and how the great man deals with it. Before this, I saw failure as something else, like shame, to avoid, hide, or feel embarrassed about. I believed that failure meant not being good enough. However, after reading this chapter, my perspective on failure has completely changed.&lt;/p&gt;&#xA;&lt;p&gt;One concept that stuck in my mind was &amp;ldquo;intelligent failure&amp;rdquo;. This means failing to clearly define purpose, proper research, and a meaningful goal. It is not about making careless mistakes, but about taking thought risks. When we fail in this way, we get only valuable insights that help us improve.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>https://github.com/Spidy25ug-apu/hello-world/posts/second-post/</link>
+      <pubDate>Thu, 19 Mar 2026 16:35:56 +0530</pubDate>
+      <guid>https://github.com/Spidy25ug-apu/hello-world/posts/second-post/</guid>
+      <description>&lt;p&gt;Reflection on Unit 2 &lt;/p&gt;&#xA;&lt;p&gt;In Unit 2, I studied the BRIS, where I explored the wide range of topics that helped me to understand how mathematics and computers are connected. At the beginning, it seemed technical, but gradually they became meaningful as I practiced on them. I have learned about the number systems, that is, binary, decimal, and hexadecimal conversions. Initially, it was difficult and confusing, but with practice, it was easy. I got to know how computers actually perform calculations at a fundamental level. Another topic that grabbed my attention was fun with images. I know what an image is, but not in detail, not more. learning that images are made up of pixels, each pixel holds a value, was fascinating. It changed my mind about how I looked at digital images. I learned how image quality depends on image resolution. It was challenging for me to understand how flipping or resizing happens based on logical operations. Moving ahead, I knew that optimization and formal analysis helped me think logically, instead of solving problems directly. These topics I found difficult and confusing. The Bridges of Konigsberg problem was good but not simple. It showed how real-world puzzles led to development of graph theory. Finally, learning about abstraction and modeling taught me how to simplify complex problems. Overall, I say that this kind of learning improved my problem-solving skills at some point.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/Spidy25ug-apu/hello-world/posts/my-first-post/</link>
+      <link>https://github.com/Spidy25ug-apu/hello-world/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 14:49:50 +0530</pubDate>
-      <guid>http://localhost:1313/Spidy25ug-apu/hello-world/posts/my-first-post/</guid>
+      <guid>https://github.com/Spidy25ug-apu/hello-world/posts/my-first-post/</guid>
       <description>&lt;p&gt;“Hello everyone, my name is Piyush. I’m a student who is passionate about learning new things and improving my skills every day. I’m especially interested in technology and problem-solving. I enjoy exploring new ideas, working on assignments, and developing my knowledge step by step. I’m a hardworking and positive person, and I like taking on challenges that help me grow. In my free time, I enjoy using the computer, learning new concepts, and spending time with friends. My goal is to build a successful career and keep learning throughout my life. Thank you.”&lt;/p&gt;</description>
     </item>
   </channel>

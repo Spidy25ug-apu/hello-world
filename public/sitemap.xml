@@ -2,17 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Spidy25ug-apu/hello-world/posts/my-first-post/</loc>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/</loc>
+    <lastmod>2026-04-06T00:27:50+05:30</lastmod>
+  </url><url>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/posts/</loc>
+    <lastmod>2026-04-06T00:27:50+05:30</lastmod>
+  </url><url>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/posts/unit03/</loc>
+    <lastmod>2026-04-06T00:27:50+05:30</lastmod>
+  </url><url>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/posts/second-post/</loc>
+    <lastmod>2026-03-19T16:35:56+05:30</lastmod>
+  </url><url>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/posts/my-first-post/</loc>
     <lastmod>2026-01-28T14:49:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Spidy25ug-apu/hello-world/</loc>
-    <lastmod>2026-01-28T14:49:50+05:30</lastmod>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Spidy25ug-apu/hello-world/posts/</loc>
-    <lastmod>2026-01-28T14:49:50+05:30</lastmod>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/poosts/</loc>
   </url><url>
-    <loc>http://localhost:1313/Spidy25ug-apu/hello-world/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Spidy25ug-apu/hello-world/tags/</loc>
+    <loc>https://github.com/Spidy25ug-apu/hello-world/tags/</loc>
   </url>
 </urlset>
