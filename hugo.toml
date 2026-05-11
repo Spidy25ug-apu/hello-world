@@ -1,6 +1,5 @@
-baseURL = 'https://spidy25ug-apu.github.io/hello-world/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+baseURL = "https://spidy25ug-apu.github.io/hello-world/"
+languageCode = "en-us"
+title = "My New Hugo Project"
+theme = "ananke"
+publishDir = "docs"
