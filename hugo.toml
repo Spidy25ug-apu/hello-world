@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Spidy25ug-apu/hello-world'
+baseURL = 'https://spidy25ug-apu.github.io/hello-world/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 [caches]
